@@ -20,15 +20,11 @@ We created new columns for details of the month, year, and duration of the crime
 
 Target: We wanted to look at attempted vs completed crimes and see which features were the most accurate predictors of whether the crime was attempted or completed
 
--From ___ coefficient, we wanted to.... know which regions were likely to have completed crimes, so that more resources could be allocated to these areas in NYC
-
 Models: 
 Logistic Regression with GridSearch 
 Random Forest with Random Oversampler
 Random Forest with Random Undersampler 
 Random Forest with SMOTE, with GridSearch 
-
-(pics of confusion matrices and classification reports for each model) ***
 
 Conclusion: 
 
@@ -44,7 +40,8 @@ Multinomial Bayes
 XGBoost with SMOTE
 KNN with GridsearchCV
 
-#smote is an oversampling technique 
-#logistic regression is the probability of attempted/completed given the independent variables 
-#GridSearchCV: (cross validation) select the best parameters from the listed hyperparameters
+Other notes:
+-smote is an oversampling technique 
+logistic regression is the probability of attempted/completed given the independent variables 
+GridSearchCV: (cross validation) select the best parameters from the listed hyperparameters
 
