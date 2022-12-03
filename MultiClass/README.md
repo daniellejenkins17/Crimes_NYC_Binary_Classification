@@ -21,6 +21,13 @@ We created new columns for details of the month, year, and duration of the crime
 Target: We wanted to look at attempted vs completed crimes and see which features were the most accurate predictors of whether the crime was attempted or completed
 
 Exploratory Data Analysis: 
+![EDA](https://imgur.com/a/Kv5NH0x)
+
+![Crimes by Borough](https://imgur.com/a/m9hOa9r)
+
+![Attempted vs Completed](https://imgur.com/a/nRNjhJk)
+
+![Crime Map](https://imgur.com/a/qBp0SV1)
 
 Models: 
 Logistic Regression with GridSearch 
