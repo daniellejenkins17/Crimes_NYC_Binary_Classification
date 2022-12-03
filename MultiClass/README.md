@@ -20,6 +20,8 @@ We created new columns for details of the month, year, and duration of the crime
 
 Target: We wanted to look at attempted vs completed crimes and see which features were the most accurate predictors of whether the crime was attempted or completed
 
+Exploratory Data Analysis: 
+
 Models: 
 Logistic Regression with GridSearch 
 Random Forest with Random Oversampler
@@ -29,6 +31,8 @@ Random Forest with SMOTE, with GridSearch
 Conclusion: 
 
 -It is very difficult to predict attempted crimes, and more easy to predict completed crimes based on this dataset
+-Harassment and robbery are two crimes that are very ambiguous as to whether they were attempted or completed. It is particularly difficult to predict these two crimes 
+-A business recommendation is to allocate more resources to the locations with the most completed crimes 
 
 Model Optimization:
 We tried the original sample size of 100,000 for the models. 
@@ -42,6 +46,6 @@ KNN with GridsearchCV
 
 Other notes:
 -smote is an oversampling technique 
-logistic regression is the probability of attempted/completed given the independent variables 
-GridSearchCV: (cross validation) select the best parameters from the listed hyperparameters
+-logistic regression is the probability of attempted/completed given the independent variables 
+-GridSearchCV: (cross validation) select the best parameters from the listed hyperparameters
 
