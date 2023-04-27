@@ -36,7 +36,13 @@ We wanted to look at attempted vs completed crimes and see which features were t
 
 ![Attempted vs Completed](https://imgur.com/a/nRNjhJk)
 
-![Crime Map](https://imgur.com/a/qBp0SV1)
+# Crime Map I constructed using Folium: 
+
+![Crime Map](https://i.imgur.com/6NtAYcZ.png)
+
+# More Specific Crime Map I made specifically from NYC Subway Crime Data 
+
+![Subway Crime Map](https://i.imgur.com/r9hLgew.png)
 
 # Models: 
 Logistic Regression with GridSearch 
