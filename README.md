@@ -8,6 +8,8 @@ I made many models, all of which I tried to accurately predict whether a crime w
 # Objective:  
 To use previous NYC crime data to make accurate predictions about whether crimes were attempted or completed
 
+![Crime Map](https://i.imgur.com/x1JFXzp.png)
+
 # Stakeholder: City of New York 
 -Will determine where to invest in resources to help reduce crime in these areas, based whether crimes were attempted or completed 
 
