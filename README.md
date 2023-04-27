@@ -30,7 +30,7 @@ We wanted to look at attempted vs completed crimes and see which features were t
 
 # Exploratory Data Analysis: 
 
-![EDA](https://imgur.com/a/Kv5NH0x)
+![EDA](https://i.imgur.com/sEV4UAG.png)
 
 ![Crimes by Borough](https://i.imgur.com/tdcJqOT.png)
 
