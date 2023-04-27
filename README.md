@@ -32,9 +32,9 @@ We wanted to look at attempted vs completed crimes and see which features were t
 
 ![EDA](https://imgur.com/a/Kv5NH0x)
 
-![Crimes by Borough](https://imgur.com/a/m9hOa9r)
+![Crimes by Borough](https://i.imgur.com/tdcJqOT.png)
 
-![Attempted vs Completed](https://imgur.com/a/nRNjhJk)
+![Attempted vs Completed](https://i.imgur.com/4Ax1Wu4.png)
 
 # Crime Map I constructed using Folium: 
 
@@ -50,7 +50,7 @@ Random Forest with Random Oversampler
 Random Forest with Random Undersampler 
 Random Forest with SMOTE, with GridSearch 
 
-![Feature Importances](https://imgur.com/ufWxFEq)
+![Feature Importances](https://i.imgur.com/6rwk4dg.png)
 
 # Conclusion: 
 
